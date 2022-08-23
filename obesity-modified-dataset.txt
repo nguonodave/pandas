@@ -4,11 +4,11 @@ Female	21.0	1.52	56.0	Normal_Weight	no	3.0	3.0	Sometimes	yes	3.0	yes	3.0	0.0	Som
 Male	23.0	1.8	77.0	Normal_Weight	no	2.0	3.0	Sometimes	no	2.0	no	2.0	1.0	Frequently	Public_Transportation
 Male	27.0	1.8	87.0	Overweight_Level_I	no	3.0	3.0	Sometimes	no	2.0	no	2.0	0.0	Frequently	Walking
 Male	22.0	1.78	89.8	Overweight_Level_II	no	2.0	1.0	Sometimes	no	2.0	no	0.0	0.0	Sometimes	Public_Transportation
-Male	29.0	1.62	53.0	Normal_Weight	yes	2.0	3.0	Sometimes	no	2.0	no	0.0	0.0	Sometimes	Automobile
-Female	23.0	1.5	55.0	Normal_Weight	yes	3.0	3.0	Sometimes	no	2.0	no	1.0	0.0	Sometimes	Motorbike
-Male	22.0	1.64	53.0	Normal_Weight	no	2.0	3.0	Sometimes	no	2.0	no	3.0	0.0	Sometimes	Public_Transportation
-Male	24.0	1.78	64.0	Normal_Weight	yes	3.0	3.0	Sometimes	no	2.0	no	1.0	1.0	Frequently	Public_Transportation
-Male	22.0	1.72	68.0	Normal_Weight	yes	2.0	3.0	Sometimes	no	2.0	no	1.0	1.0	no	Public_Transportation
+Male	29.0	1.62		Normal_Weight	yes	2.0	3.0	Sometimes	no	2.0	no	0.0	0.0	Sometimes	Automobile
+Female	23.0	1.5		Normal_Weight	yes	3.0	3.0	Sometimes	no	2.0	no	1.0	0.0	Sometimes	Motorbike
+Male	22.0	1.64		Normal_Weight	no	2.0	3.0	Sometimes	no	2.0	no	3.0	0.0	Sometimes	Public_Transportation
+Male	24.0	1.78		Normal_Weight	yes	3.0	3.0	Sometimes	no	2.0	no	1.0	1.0	Frequently	Public_Transportation
+Male	22.0	1.72		Normal_Weight	yes	2.0	3.0	Sometimes	no	2.0	no	1.0	1.0	no	Public_Transportation
 Male	26.0	1.85	105.0	Obesity_Type_I	yes	3.0	3.0	Frequently	no	3.0	no	2.0	2.0	Sometimes	Public_Transportation
 Female	21.0	1.72	80.0	Overweight_Level_II	yes	2.0	3.0	Frequently	no	2.0	yes	2.0	1.0	Sometimes	Public_Transportation
 Male	22.0	1.65	56.0	Normal_Weight	no	3.0	3.0	Sometimes	no	3.0	no	2.0	0.0	Sometimes	Public_Transportation
